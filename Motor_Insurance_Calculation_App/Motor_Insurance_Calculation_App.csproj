@@ -49,7 +49,7 @@
     <Compile Include="Policy_Rules\Policy_Rules_Driver_Claims.cs" />
     <Compile Include="Policy_Rules\Policy_Rules_Driver_Occupation.cs" />
     <Compile Include="Policy_Rules\Policy_Rules_Structure.cs" />
-    <Compile Include="Premium_Calculation.cs" />
+    <Compile Include="Policy_Rules\Premium_Calculation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Validate_Input\Validate_Date_Input.cs" />
