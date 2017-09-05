@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2017\Projects\Motor_Insurance_Calculation_App\Motor_Insurance_Calculation_App\bin\Debug\Motor_Insurance_Calculation_App.exe.config
+C:\Users\Woo\documents\visual studio 2017\Projects\Motor_Insurance_Calculation_App\Motor_Insurance_Calculation_App\bin\Debug\Motor_Insurance_Calculation_App.exe
+C:\Users\Woo\documents\visual studio 2017\Projects\Motor_Insurance_Calculation_App\Motor_Insurance_Calculation_App\bin\Debug\Motor_Insurance_Calculation_App.pdb
+C:\Users\Woo\documents\visual studio 2017\Projects\Motor_Insurance_Calculation_App\Motor_Insurance_Calculation_App\obj\Debug\Motor_Insurance_Calculation_App.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2017\Projects\Motor_Insurance_Calculation_App\Motor_Insurance_Calculation_App\obj\Debug\Motor_Insurance_Calculation_App.exe
+C:\Users\Woo\documents\visual studio 2017\Projects\Motor_Insurance_Calculation_App\Motor_Insurance_Calculation_App\obj\Debug\Motor_Insurance_Calculation_App.pdb
