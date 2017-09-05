@@ -42,8 +42,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\Driver.cs" />
+    <Compile Include="Data\Policy.cs" />
+    <Compile Include="Policy_Rules\Build_Policy.cs" />
+    <Compile Include="Policy_Rules\Policy_Rules_Driver_Age.cs" />
+    <Compile Include="Policy_Rules\Policy_Rules_Driver_Claims.cs" />
+    <Compile Include="Policy_Rules\Policy_Rules_Driver_Occupation.cs" />
+    <Compile Include="Policy_Rules\Policy_Rules_Structure.cs" />
+    <Compile Include="Premium_Calculation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validate_Input\Validate_Date_Input.cs" />
+    <Compile Include="Validate_Input\Validate_Integer_Range_Input.cs" />
+    <Compile Include="Validate_Input\Validate_Multi_Choice_Input.cs" />
+    <Compile Include="Validate_Input\Validate_String_Input.cs" />
+    <Compile Include="Validate_Input\Validate_Structure.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

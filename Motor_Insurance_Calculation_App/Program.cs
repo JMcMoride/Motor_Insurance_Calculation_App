@@ -1,15 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Motor_Insurance_Calculation_App
+namespace motor_Insurance_Calculation
 {
     class Program
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("\n\t--- Motor Insurance Calculator! ---\n");
+            Console.WriteLine("\t    ==========================\n");
+
+            Premium_Calculation.Start(Build_Policy.Start());
         }
+     
     }
 }
